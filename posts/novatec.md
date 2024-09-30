@@ -9,15 +9,15 @@ hola, ahora estoy sentado aburrido escribiendo esto...()
 \_| \_/\___/ \_/ \__,_\_/\___|\___|
 </pre>
 
-En realidad no se que nombre ponerle. Pienso que este proyecto sera mejor que los otros que eh hecho.
+En realidad no se que nombre ponerle. Pienso que este proyecto sera mejor que los otros que eh hecho. <i>(Actualización ya esta el nombre)</i>
 
-Proyecto web que tendre que realizar yo solo, tengo 2 proyectos más pendiente y quiero terminar un avanze de esto. <i>(viernes 22    7)</i>
+Proyecto web que tendre que realizar yo solo, tengo 2 proyectos más pendiente y quiero terminar un avanze de esto. <i>(viernes 22/7/24)</i>
 
-<b>== Resumen ==</b>
+## Resumen
 
 Realizar una tienda online, donde los clientes podran comprar y realizar sus pagos de forma segura y asi mismo se podra ver como los administradores de la tienda podran agregar productos a la web. Solo los que son administradores podran ver su apartado.
 
-<b>== Introducción == </b>
+## Introducción
 
 <b>NovaTec</b> tiene una tienda fisica y esto limita el alcance del mercado y la capacidad de poder generar ventas, implemantamos un sitio web para que los clientes de una manera más comoda puedan visitar nuestra tienda, incluso implementamos un sistema de inventario de ventas y atención al cliente, lo que puede generar un mayor agrado al cliente.
 
@@ -33,14 +33,14 @@ Realizar una tienda online, donde los clientes podran comprar y realizar sus pag
   2. Mejorar la experiencia al cliente.
   3. Tener buena eficiencia.
 
-<b>== Diagnóstico ==</b>
+## Diagnóstico
 
 <i>Oportunidades:</i>
   * Aumento de ventas
   * Mejora en al experiencia del Cliente
   * Expansión del Mercado
 
-<b>== Objetivos ==</b>
+## Objetivos
 
 OBJ 1.- AUMENTAR LAS VENTAS
 
@@ -58,11 +58,11 @@ OBJ 2.- MEJORAR LA SATISFACCIÓN AL CLIENTE
   * Relevantes: Satisfacción del cliente para fomentar lealtad.
   * Tiempo    : Debe alcanzarse dentro el primer año.
 
-<b>== Justificación del Proyecto ==</b>
+## Justificación del Proyecto
 
 El desarrollo de una tienda online para NovaTec es una necesidad de crecimiento tecnológicamente. Este proyecto tiene un potencial de poder transformar no solo las ventas online sino la experiencia de compras de los clientes y tener un buen servicio.
 
-<b>== Definición y alcance ==</b>
+## Definición y alcance
 
 <i>Definición del proyecto:</i>
 
@@ -83,16 +83,9 @@ Desarrollo de la Plataforma:
 
 -> Diseño de interfaz: Crear un diseño amigable que facilite la navegación y que tenga una buena experiencia de compra.
 
-<b>== Productos y entregables ==</b>
+## Productos y entregables
 
--> index
 
 ![](../img/index.png)
-
--> login
-
 ![](../img/login.png)
-
--> about
-
 ![](../img/about.png)
