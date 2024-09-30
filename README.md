@@ -5,5 +5,5 @@
 
 posts:
 
-29/09/2024<br/>
 [Novatec Proyecto](posts/novatec.md) 
+
