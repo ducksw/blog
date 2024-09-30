@@ -6,6 +6,8 @@ hola, ahora estoy sentado aburrido escribiendo esto...()
 
 Cambiare varios diseño, en realidad me da flojera hacer cada caja donde iran las imagenes, también cambiare el nav. Solo haré una sección donde irá todos los productos.
 
+<hr/>
+
 En realidad no se que nombre ponerle. Pienso que este proyecto sera mejor que los otros que eh hecho. <i>(Actualización ya esta el nombre)</i>
 
 Proyecto web que tendre que realizar yo solo, tengo 2 proyectos más pendiente y quiero terminar un avanze de esto.
