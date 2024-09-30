@@ -1,6 +1,6 @@
 ---
 title: "NovaTec"
-date: "30/09/2024"
+date: "29/09/2024"
 author: ducks
 category: posts
 ---
