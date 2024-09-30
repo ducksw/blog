@@ -1,3 +1,10 @@
+---
+title: "NovaTec"
+date: "30/09/2024"
+author: ducks
+category: posts
+---
+
 hola, ahora estoy sentado aburrido escribiendo esto...()
 
 # NovaTec
