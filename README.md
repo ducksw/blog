@@ -5,5 +5,5 @@
 
 posts:
 
-[Novatec Proyecto](posts/novatec.md) 
+* [Novatec Proyecto](posts/novatec.md) 
 
